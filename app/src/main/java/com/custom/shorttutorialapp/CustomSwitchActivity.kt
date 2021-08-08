@@ -1,12 +1,12 @@
 package com.custom.shorttutorialapp
 
-import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
 
-class CustomRadioButtonActivity : AppCompatActivity() {
+class CustomSwitchActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_custom_radio_button)
+        setContentView(R.layout.activity_custom_switch)
     }
 }

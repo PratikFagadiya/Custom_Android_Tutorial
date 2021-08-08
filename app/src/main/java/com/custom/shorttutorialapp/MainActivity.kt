@@ -18,5 +18,9 @@ class MainActivity : AppCompatActivity() {
         btnCustomRadioButton.setOnClickListener {
             startActivity(Intent(this,CustomRadioButtonActivity::class.java))
         }
+
+        btnCustomSwitch.setOnClickListener {
+            startActivity(Intent(this,CustomSwitchActivity::class.java))
+        }
     }
 }

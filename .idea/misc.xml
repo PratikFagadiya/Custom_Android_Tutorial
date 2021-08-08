@@ -4,11 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/home/Downloads/Passion/Apps/ShortTutorialApp/app/src/main/res/drawable/custom_button_background.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/home/Downloads/Passion/Apps/ShortTutorialApp/app/src/main/res/drawable/custom_thumb.xml" value="0.25885416666666666" />
+        <entry key="..\:/Users/home/Downloads/Passion/Apps/ShortTutorialApp/app/src/main/res/drawable/custom_track.xml" value="0.25885416666666666" />
         <entry key="..\:/Users/home/Downloads/Passion/Apps/ShortTutorialApp/app/src/main/res/drawable/pink_out_line.xml" value="0.25885416666666666" />
         <entry key="..\:/Users/home/Downloads/Passion/Apps/ShortTutorialApp/app/src/main/res/drawable/radio_flat_regular.xml" value="0.24479166666666666" />
         <entry key="..\:/Users/home/Downloads/Passion/Apps/ShortTutorialApp/app/src/main/res/drawable/radio_flat_selected.xml" value="0.25885416666666666" />
         <entry key="..\:/Users/home/Downloads/Passion/Apps/ShortTutorialApp/app/src/main/res/drawable/toggle_widget_background.xml" value="0.24479166666666666" />
+        <entry key="..\:/Users/home/Downloads/Passion/Apps/ShortTutorialApp/app/src/main/res/layout/activity_custom_edittext_activiity.xml" value="0.24270833333333333" />
         <entry key="..\:/Users/home/Downloads/Passion/Apps/ShortTutorialApp/app/src/main/res/layout/activity_custom_radio_button.xml" value="0.24270833333333333" />
+        <entry key="..\:/Users/home/Downloads/Passion/Apps/ShortTutorialApp/app/src/main/res/layout/activity_custom_switch.xml" value="0.72" />
         <entry key="..\:/Users/home/Downloads/Passion/Apps/ShortTutorialApp/app/src/main/res/layout/activity_main.xml" value="0.176" />
       </map>
     </option>

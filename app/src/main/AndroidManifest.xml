@@ -9,9 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.ShortTutorialApp">
-        <activity android:name="com.custom.shorttutorialapp.CustomRadioButtonActivity"></activity>
-        <activity android:name="com.custom.shorttutorialapp.CustomEdittextActiviity" />
-        <activity android:name="com.custom.shorttutorialapp.MainActivity">
+        <activity
+            android:name=".CustomSwitchActivity"
+            android:exported="true" />
+        <activity android:name=".CustomRadioButtonActivity" />
+        <activity android:name=".CustomEdittextActiviity" />
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
